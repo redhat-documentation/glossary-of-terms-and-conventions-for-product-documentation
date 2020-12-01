@@ -1,13 +1,19 @@
-# Glossary of Terms and Conventions for Product Documentation
+# [Deprecated] Glossary of Terms and Conventions for Product Documentation
+
+---
+**NOTE**
+
+This repository is deprecated! The contents of this repository are now included in the `supplementary-style-guide` repository under the `redhat-documentation` group located here: https://github.com/redhat-documentation/supplementary-style-guide
+
+Please make updates to the content at that location.
+
+To review a compiled version of the new project, see [Red Hat supplementary style guide for product documentation](https://redhat-documentation.github.io/supplementary-style-guide).
+
+---
 
 ## Glossary of Terms and Conventions for Product Documentation [![Build Status](https://travis-ci.org/redhat-documentation/glossary-of-terms-and-conventions-for-product-documentation.svg?branch=master)](https://travis-ci.org/redhat-documentation/glossary-of-terms-and-conventions-for-product-documentation)
 
 The Glossary of Terms and Conventions for Product Documentation contains the set of technical language conventions used by all documentation teams at Red Hat that will improve the consistency of language across Red Hat documentation.
-
-You can view the latest build of the guide here:
-
-https://redhat-documentation.github.io/glossary-of-terms-and-conventions-for-product-documentation/
-
 
 ## What is the Purpose of the Glossary of Terms and Conventions for Product Documentation?
 
